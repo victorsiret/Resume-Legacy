@@ -1,9 +1,11 @@
 * {
-    margin:0px;
 }
 .pwidboy {
     margin-right: 20%;
 }
 h1 {
     font-weight: bold;
+}
+.zind {
+    z-index:10;
 }
